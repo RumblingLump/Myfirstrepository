@@ -1,4 +1,4 @@
 # Myfirstrepository
 Wheeeee!
 
-Maybe this first repositore can be a hub of embedded flash games that i like
+Maybe this first repository can be a hub of embedded flash games that i like
